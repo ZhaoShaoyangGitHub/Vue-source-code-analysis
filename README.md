@@ -7,4 +7,4 @@
     "dev": "rollup -w -c scripts/config.js --sourcemap --environment TARGET:webfull-dev",
 
 <p align="center">
-  <img src="../images/1.png"><img src="../images/2.png"></p>
+  <img src="./images/1.png"><img src="./images/2.png"></p>
